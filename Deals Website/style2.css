@@ -1,0 +1,143 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+body{
+margin: 0%;
+padding: 0%; 
+font-family: sans-serif;
+background: url(how-to-be-happy.jpg);
+background-size: cover;
+background-position: center;
+}
+.sign-up-form
+{
+    width: 400px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: teal;
+    padding: 35px;
+    margin:  auto;
+    text-align: center;
+    border-radius: 15px;
+}
+.sign-up-form h1 {
+    color:#1c8adb;
+    margin-bottom: 30px;
+}
+.input-box
+{
+   
+    border-radius: 15px;
+   padding: 10px;
+    margin:10px ;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+
+}
+button 
+{
+    color:#1c8adb;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size 15px;
+    margin: 10px 0;
+    border:none;
+    outline: none;
+    cursor: pointer;
+}
+hr {
+    margin-top: 20px;
+    width: 80%;
+}
+.or 
+{
+    background: #fff;
+    width:30px;
+    margin:-19px auto 10px;
+}
+img{
+    width: 45px;
+    margin-top: -100px; 
+    position:static;
+  
+}
+.login-form
+{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: rgb(20, 118, 135);
+    padding: 35px;
+    margin:  auto;
+    text-align: center;
+    border-radius: 15px;
+}
+.sign-up-form h1 {
+    color:#1c8adb;
+    margin-bottom: 30px;
+}
+.detail-form
+{
+    width: 500px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: rgb(77, 13, 225);
+    padding: 45px;
+    margin:  auto;
+    text-align: center;
+    border-radius: 13px;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+<!------ style of registration  ---------->
+
+
+body {
+    background: url('https://static-communitytable.parade.com/wp-content/uploads/2014/03/rethink-target-heart-rate-number-ftr.jpg') fixed;
+   background-size: cover;
+}
+
+*[role="form"] {
+   max-width: 530px;
+   padding: 15px;
+   margin: 0 auto;
+   border-radius: 0.3em;
+   background-color: #f2f2f2;
+}
+
+*[role="form"] h2 { 
+   font-family: 'Open Sans' , sans-serif;
+   font-size: 40px;
+   font-weight: 600;
+   color: #000000;
+   margin-top: 5%;
+   text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
+registration-form
+{
+    width: 100%px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: rgb(20, 118, 135);
+    padding: 35px;
+    margin:  auto;
+    text-align: center;
+    border-radius: 15px;
+    background: #1c8adb;
+}
